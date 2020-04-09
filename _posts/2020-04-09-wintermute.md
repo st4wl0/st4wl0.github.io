@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wintermute-本地文件包含到getshell
+title: LFI-GetShell->端口转发->Getshell
 ---
 
 > Wild animals never kill for sport. Man is the only one to whom the torture and death of his fellow creatures is amusing in itself.——James Anthony Froude
